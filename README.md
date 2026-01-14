@@ -1,2 +1,2 @@
 # Dashboards
-Other projects e case studies done during my learning process
+Other projects and case studies done during my learning process and other courses
