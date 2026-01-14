@@ -1,0 +1,5 @@
+Pinya Telecom: https://public.tableau.com/app/profile/andr.rodrigues7610/viz/PinyaTelecomCustomerRetentionDashboardCaseStudy/Dashboard2-DeepDiveSegmentationGeography
+
+HR Dashboard: https://public.tableau.com/app/profile/andr.rodrigues7610/viz/HRDashboardProject-TableauZerotoHeroCourse-Udemy/HRDetails
+
+Sales & Customers Dashboard: https://public.tableau.com/app/profile/andr.rodrigues7610/viz/SalesCustomerDashboardProject-TableauZerotoHero-Udemy/SalesDashboard?publish=yes
